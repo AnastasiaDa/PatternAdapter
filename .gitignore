@@ -1,5 +1,7 @@
 # Compiled class file
 *.class
+.idea
+PatternAdapter.iml
 
 # Log file
 *.log
